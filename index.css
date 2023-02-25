@@ -1,0 +1,96 @@
+.down{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+title{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.join{
+    width: 200px;
+}
+.down button{
+    background-color: #229ED9;
+    border-style: hidden;
+    border-radius: 20px;
+    border-bottom: transparent;
+    height: 30px;
+    color: white;
+    
+}
+.join:hover{
+    background-color: blue;
+    transition-duration: 1000ms; 
+    
+}
+
+
+    
+
+.downe:hover{
+    background-color: white;
+    color: black;
+    transition: 1000ms;
+    size: 14px;
+}
+
+
+.right{
+    display: flex;
+    padding: 0%;
+    flex-direction: column;
+flex-wrap: wrap;
+align-items: flex-start;
+}
+.all{
+    display: flex;
+    justify-content: center;
+  flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.erangle{
+    height: 400px;
+    width: 220px;   
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+   }
+.one{
+    width: 400px;
+}
+.first{
+   
+
+   width: auto;
+
+
+  
+}
+.first h4{
+    padding: 0px;
+    height: 20px;
+}
+.downloadlink button{
+    border-radius: 20px;
+    background-color: cadetblue;
+    height: 30px;
+color: white;
+border-color: transparent;
+}
+h6{
+    color: darkgray;
+}
+.tuto button{
+    border-radius: 20px;
+    border-color: transparent;
+    background-color: red;
+    color: white;
+    margin: 10px;
+    
+}
